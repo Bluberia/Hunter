@@ -1,0 +1,10 @@
+*~
+\#*\#
+*.o
+*.gcno
+*.a
+*.out
+test
+vscode
+.vscode
+my_hunter
