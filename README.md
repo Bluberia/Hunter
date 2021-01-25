@@ -1,1 +1,2 @@
-Projet Epitech de Première Année, réalisé en 2018. Reproduction du célèbre jeu Duck Hunt en CSFML.
+First Year Epitech project, completed in 2018.
+Reproduction of the famous Duck Hunt game in CSFML.
